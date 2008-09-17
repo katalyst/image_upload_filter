@@ -74,6 +74,7 @@ function image_upload_filter_input_method(index, filter)
    {
       //ignore for snippets
    }
+}
 
 Event.observe(window, 'load', init_load_image_upload_filter, false);
 
